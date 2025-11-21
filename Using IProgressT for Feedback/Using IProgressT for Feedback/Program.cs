@@ -10,6 +10,13 @@ namespace Using_IProgressT_for_Feedback
     {
         static void Main(string[] args)
         {
+            var progress = new Progress();
+
+            var simulator = new AsynSimulator();
+
+            _ = simulator.DoSomething(progress);
+
+            Console.ReadKey();
         }
     }
 }

@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Using_IProgressT_for_Feedback
 {
-    interface IProgress
+    interface IProgress<T>
     {
+        void Report(T value);
     }
 }

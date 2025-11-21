@@ -1,0 +1,7 @@
+D:\Work\Innowise\Using-IProgressT-for-Feedback\Using IProgressT for Feedback\Using IProgressT for Feedback\bin\Debug\Using IProgressT for Feedback.exe.config
+D:\Work\Innowise\Using-IProgressT-for-Feedback\Using IProgressT for Feedback\Using IProgressT for Feedback\bin\Debug\Using IProgressT for Feedback.exe
+D:\Work\Innowise\Using-IProgressT-for-Feedback\Using IProgressT for Feedback\Using IProgressT for Feedback\bin\Debug\Using IProgressT for Feedback.pdb
+D:\Work\Innowise\Using-IProgressT-for-Feedback\Using IProgressT for Feedback\Using IProgressT for Feedback\obj\Debug\Using IProgressT for Feedback.csproj.AssemblyReference.cache
+D:\Work\Innowise\Using-IProgressT-for-Feedback\Using IProgressT for Feedback\Using IProgressT for Feedback\obj\Debug\Using IProgressT for Feedback.csproj.CoreCompileInputs.cache
+D:\Work\Innowise\Using-IProgressT-for-Feedback\Using IProgressT for Feedback\Using IProgressT for Feedback\obj\Debug\Using IProgressT for Feedback.exe
+D:\Work\Innowise\Using-IProgressT-for-Feedback\Using IProgressT for Feedback\Using IProgressT for Feedback\obj\Debug\Using IProgressT for Feedback.pdb
