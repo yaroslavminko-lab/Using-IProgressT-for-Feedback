@@ -10,7 +10,10 @@ namespace Using_IProgressT_for_Feedback
     {
         static void Main(string[] args)
         {
-            var progress = new Progress();
+            var progress = new Progress<int>(X =>
+            {
+                Console.WriteLine($"ПРОГРЕСС: [{X}]% выполнено");
+            });
 
             var simulator = new AsynSimulator();
 
